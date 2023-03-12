@@ -1,2 +1,2 @@
-# calculadora-python
-Calculadora hecha en Python rapida y sencilla
+# Calculadora-Python
+Calculadora de Python Básica.
