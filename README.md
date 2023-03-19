@@ -1,2 +1,3 @@
 # Calculadora-Python
-Calculadora de Python Básica.
+
+Calculadora de Python Básica, con excepciones personalizadas.
